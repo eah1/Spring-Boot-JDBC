@@ -9,4 +9,5 @@ public class SpringBootJdbcApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootJdbcApplication.class, args);
 	}
+	
 }

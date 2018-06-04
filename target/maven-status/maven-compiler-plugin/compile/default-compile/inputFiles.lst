@@ -1,0 +1,8 @@
+/home/eah1/Documentos/Repositorios/GitHub/Spring-Boot-JDBC/src/main/java/com/spring/boot/jdbc/controller/ArticleController.java
+/home/eah1/Documentos/Repositorios/GitHub/Spring-Boot-JDBC/src/main/java/com/spring/boot/jdbc/entity/ArticleRowMapper.java
+/home/eah1/Documentos/Repositorios/GitHub/Spring-Boot-JDBC/src/main/java/com/spring/boot/jdbc/service/IArticleService.java
+/home/eah1/Documentos/Repositorios/GitHub/Spring-Boot-JDBC/src/main/java/com/spring/boot/jdbc/service/ArticleService.java
+/home/eah1/Documentos/Repositorios/GitHub/Spring-Boot-JDBC/src/main/java/com/spring/boot/jdbc/entity/Article.java
+/home/eah1/Documentos/Repositorios/GitHub/Spring-Boot-JDBC/src/main/java/com/spring/boot/jdbc/dao/IArticleDAO.java
+/home/eah1/Documentos/Repositorios/GitHub/Spring-Boot-JDBC/src/main/java/com/spring/boot/jdbc/SpringBootJdbcApplication.java
+/home/eah1/Documentos/Repositorios/GitHub/Spring-Boot-JDBC/src/main/java/com/spring/boot/jdbc/dao/ArticleDAO.java
